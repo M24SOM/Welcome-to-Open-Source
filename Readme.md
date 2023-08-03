@@ -45,6 +45,13 @@
                     <sub><b>Mohamed Mahad</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/M24SOM">
+                    <img src="https://avatars.githubusercontent.com/abmoallim" width="100px;" alt="Abdihamid Moallim"/>
+                    <br />
+                    <sub><b>Abdihamid Moallim</b></sub>
+                </a> 
+            </td>
         </tr> 
     </tbody>
 </table>
