@@ -47,7 +47,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/abmoallim">
-                    <img src="https://avatars.githubusercontent.com/abmoallim" width="100px;" alt="Abdihamid Moallim"/>
+                    <img src="https://avatars.githubusercontent.com/abmoallim" width="100px;" alt="Abmoallim"/>
                     <br />
                     <sub><b>Abdihamid Moallim</b></sub>
                 </a> 
