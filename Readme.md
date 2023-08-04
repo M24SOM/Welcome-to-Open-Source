@@ -24,6 +24,13 @@
                     <sub><b>Mohamed Mahad</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/muhaksim">
+                    <img src="https://avatars.githubusercontent.com/u/91332164?v=4" width="100px;" alt="Muhammad Abdullahi"/>
+                    <br />
+                    <sub><b>Muhammad Abdullahi</b></sub>
+                </a> 
+            </td>
         </tr> 
     </tbody>
 </table>
