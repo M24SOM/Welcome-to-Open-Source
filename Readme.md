@@ -8,7 +8,7 @@
 
 - [Steps to add yourself to the Somdevz Members list](https://github.com/SOMDEVZ/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
-## SOMDEVZ Team 
+## SOMDEVZ Team
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -22,21 +22,21 @@
                     <img src="https://avatars.githubusercontent.com/u/64413178?v=4" width="100px;" alt="Mohamed Mahad"/>
                     <br />
                     <sub><b>Mohamed Mahad</b></sub>
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/muhaksim">
                     <img src="https://avatars.githubusercontent.com/u/91332164?v=4" width="100px;" alt="Muhammad Abdullahi"/>
                     <br />
                     <sub><b>Muhammad Abdullahi</b></sub>
-                </a> 
+                </a>
             </td>
-        </tr> 
+        </tr>
     </tbody>
 </table>
 
 
-## SOMDEVZ Members 
+## SOMDEVZ Members
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -50,15 +50,22 @@
                     <img src="https://avatars.githubusercontent.com/u/64413178?v=4" width="100px;" alt="Mohamed Mahad"/>
                     <br />
                     <sub><b>Mohamed Mahad</b></sub>
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/abmoallim">
                     <img src="https://avatars.githubusercontent.com/abmoallim" width="100px;" alt="Abmoallim"/>
                     <br />
                     <sub><b>Abdihamid Moallim</b></sub>
-                </a> 
+                </a>
             </td>
-        </tr> 
+            <td align="center">
+                <a href="https://github.com/XanderRubio">
+                    <img src="https://avatars.githubusercontent.com/u/120526253?v=4" width="100px;" alt="Alexander Clemens"/>
+                    <br />
+                    <sub><b>Alexander Clemens</b></sub>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
