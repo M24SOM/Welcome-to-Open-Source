@@ -59,6 +59,13 @@
                     <sub><b>Abdihamid Moallim</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Nur-farah">
+                    <img src="https://avatars.githubusercontent.com/Nur-farah" width="100px;" alt="Nur-farah"/>
+                    <br />
+                    <sub><b>Nur Farah</b></sub>
+                </a> 
+            </td>
         </tr> 
     </tbody>
 </table>
