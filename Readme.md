@@ -66,6 +66,13 @@
                     <sub><b>Alexander Clemens</b></sub>
                 </a>
             </td>
-        </tr>
+           <td align="center">
+                <a href="https://github.com/Nur-farah">
+                    <img src="https://avatars.githubusercontent.com/Nur-farah" width="100px;" alt="Nur-farah"/>
+                    <br />
+                    <sub><b>Nur Farah</b></sub>
+                </a>
+            </td>
+        </tr> 
     </tbody>
 </table>
