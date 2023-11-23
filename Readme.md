@@ -75,7 +75,7 @@
             </td>
 	 <td align="center">
                 <a href="https://github.com/abdimalik2004">
-                    <img src="https://avatars.githubusercontent.com/u/117597380?v=4"/>
+                    <img src="https://avatars.githubusercontent.com/u/117597380?v=4" width="100px;" alt="Abdimalik"/>
                     <br />
                     <sub><b>Abdimalik Mahadalle</b></sub>
                 </a>
